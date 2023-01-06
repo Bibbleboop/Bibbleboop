@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bibbleboopz ... You may also know me as Bibsy... My friends call me Nic 
-- 👀 I’m interested in web3, blockchain & auditchain
+- 👀 I’m interested in web3, defi, blockchain & auditchain
 - 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me... tbc
