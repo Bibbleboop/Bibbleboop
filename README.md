@@ -5,6 +5,7 @@
 -    Looking for next steps related to smart contracts
 - 💞️ I’m looking to collaborate on future projects ...
 - 📫 How to reach me... tbc ...
+- <a href="https://app.daily.dev/Nixsy"><img src="https://api.daily.dev/devcards/fd47791dba93422784e4aba5a22bd6ec.png?r=1u7" width="400" alt="Nicola Cahill's Dev Card"/></a>
 
 <!---
 Bibbleboop/Bibbleboop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
