@@ -2,7 +2,9 @@
 - 👀 I’m  interested in Web 3.0, Smart Contracts, DeFi, Blockchain, Auditchain, Machine Learning & AI ...
 - 🌱 Career transition through Frontend Web Development Bootcamp and courses in Blockchain Specialisms (Coursera) & CyberSecurity
 -    Web 3.0 Tech Analyst Internship as part of Virtual Internship Program 2023
--    2024 projects include mastering Solidity, Smart contracts and collabs
+-
+-    **Currently Learning in 2024:**
+-      Projects include mastering Solidity, Smart contracts and collabs
 - 💞️ I’m looking to collaborate on future projects ... including community based philanprhopic ideas I am working on
 - 📫 How to reach me... tbc ...
 - <a href="https://app.daily.dev/Nixsy"><img src="https://api.daily.dev/devcards/fd47791dba93422784e4aba5a22bd6ec.png?r=1u7" width="400" alt="Nicola Cahill's Dev Card"/></a>
